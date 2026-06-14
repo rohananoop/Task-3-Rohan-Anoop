@@ -25,6 +25,7 @@ It was **Project 3**, which focus concepts like Classes & objects, methods, enca
 
 ```
 ATMProject/
+|
 |--- ATMState.java
 |--- ATM.java
 |--- BankAccount.java
