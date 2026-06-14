@@ -7,6 +7,7 @@ It simulates real-world ATM operations like card insertion and removal, PIN auth
 ## Internship Details
 This project was developed as part of a **Virtual Internship Program in Java Programming** at **DecodeLabs**.  
 It was **Project 3**, which focus concepts like Classes & objects, methods, encapsulation, input validation
+
 ---
 
 ## Features
