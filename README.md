@@ -75,8 +75,10 @@ ATMProject/
 1. Place all `.java` files in the same folder
 2. Open terminal in that folder
 3. Compile all files
-
+   ```
    javac *.java
-4. Run the program
-   
+   ```
+5. Run the program  
+   ```
    java ATMDemo
+   ```
