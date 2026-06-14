@@ -22,23 +22,17 @@ It was **Project 3**, which focus concepts like Classes & objects, methods, enca
 ---
 
 ## Project Structure
+
+```
 ATMProject/
-
-|
-
 |--- ATMState.java
-
 |--- ATM.java
-
 |--- BankAccount.java
-
 |--- IdleState.java
-
 |--- HasState.java
-
 |--- AuthenticatedState.java
-
 |--- ATMDemo.java
+```
 
 ## File Description
 
