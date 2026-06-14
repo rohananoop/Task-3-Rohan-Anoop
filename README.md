@@ -82,6 +82,6 @@ ATMProject/
 3. Compile all files
 
    javac *.java
-   
 4. Run the program
+   
    java ATMDemo
